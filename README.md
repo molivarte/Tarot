@@ -1,4 +1,4 @@
-**Desvendando os Mistérios do Tarot com um Clique!**
+**Desvendando os Mistérios do Tarot com um Clique! - Imersão Dev com Google Gemini**
 
 **O que é esse projeto?**
 
